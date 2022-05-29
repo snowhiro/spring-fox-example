@@ -1,0 +1,11 @@
+api:
+  note: | 
+    springFox学習用のAPI 
+    table構造は以下のように記載可能
+    <table  border=\1\>
+    <tr><th>コード</th><th>備考</th></tr>
+    <tr><td>0000</td><td>成功時リクエスト</td></tr>
+    </table>
+fd: 
+  userId: 
+    name: ユーザID 
